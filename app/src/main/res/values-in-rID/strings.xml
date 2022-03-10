@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Catatan</string>
+    <string name="edit">Tulis catatan</string>
+    <string name="add">Tambah</string>
+    <string name="message">Menghapus %1$s di index %2$d</string>
+</resources>
